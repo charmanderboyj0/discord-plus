@@ -18,7 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://th.bing.com/th/id/OIP.2PPkWcy4uKx4wZopGowvowHaE8?pid=ImgDet&rs=1);
+  --dplus-backdrop: url(https://th.bing.com/th/id/R.dfec1313196bc74aa4918c0ad797e726?rik=x3Swq5w%2byAWCSA&riu=http%3a%2f%2ffc08.deviantart.net%2ffs71%2fi%2f2013%2f193%2fa%2f4%2fkirito___sword_art_online_by_suzysenpai-d6ct7qu.png&ehk=m%2b7xG3QR3KjIxEvQE9FNMTjUwOrJ1VckNFoFhmRc6hY%3d&risl=&pid=ImgRaw&r=0);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
